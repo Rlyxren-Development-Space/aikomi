@@ -1,0 +1,2 @@
+# aikomi
+ Discord bot

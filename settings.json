@@ -1,0 +1,15 @@
+{
+  "token": "",
+  "messageContentCommands": {
+    "prefix": "a?",
+    "status": true
+  },
+  "loadSlashsGlobal": true,
+  "slashCommandDirs": [
+    {
+      "folderName": "",
+      "commandName": "",
+      "commandDecription": ""
+    }
+  ]
+}
